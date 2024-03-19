@@ -350,7 +350,8 @@
   }
 
   /* Active link */
-  .active-link,
+
+  /* .active-link, */
   .nav__link:hover {
     color: var(--first-color);
   }
@@ -546,6 +547,8 @@
 
   .about__link {
     color: hsl(225, 73%, 57%);
+    /* text-decoration: underline;
+    cursor: pointer; */
   }
 
   .about__bottom,
